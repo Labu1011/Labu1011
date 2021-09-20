@@ -13,7 +13,7 @@
 - ⚡ Fun fact: Besides coding, I love to play PC games 😅
 <hr/>
 <br />
-<div style="display: flex; justify-content: center; margin-bottom: 25px"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Labu1011&hide_border=true">
+<div style="display: flex; justify-content: center; margin-bottom: 25px"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Labu1011&hide_border=false">
 </div>
 <div style="display: flex; justify-content: center">
 <img src="https://github-readme-stats.vercel.app/api?username=Labu1011&count_private=true">
