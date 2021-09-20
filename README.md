@@ -52,12 +52,12 @@
 ## 🌎 Connect with me:
 
 <br />
-<a href="https://www.facebook.com/tarekjaman.labu/" style="margin-right: 10px">
+<a href="https://www.facebook.com/tarekjaman.labu/" style="margin-right: 10px" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
-<a href="https://twitter.com/tarekjaman_labu" style="margin-right: 10px">
+<a href="https://twitter.com/tarekjaman_labu" style="margin-right: 10px" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/tarek-jaman-labu-b710891b1/" style="margin-right: 10px">
+<a href="https://www.linkedin.com/in/tarek-jaman-labu-b710891b1/" style="margin-right: 10px" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
