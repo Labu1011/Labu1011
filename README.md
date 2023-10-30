@@ -7,10 +7,10 @@
 <img src="https://img.shields.io/github/followers/Labu1011?style=social"> <br />
 
 - 🔭 I’m currently working on **[Multicone](https://multicone.io)**
-- 🌱 I’m currently learning <strong style="color:#6bbd3e">Node.Js and Microservices</strong>
-- 🤔 I’m looking for help with <strong>Blockchain Technology</strong>
+- 🌱 I’m currently learning <strong style="color:#6bbd3e">Fullstack Development and Frameworks</strong>
+- 🤔 I’m looking for help with <strong>Artificial Intelligence</strong>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Besides coding, I love to play PC games 😅
+- ⚡ Fun fact: Besides coding, I love to play video games 😅
 <hr/>
 <br />
 <div style="display: flex; justify-content: center; margin-bottom: 25px"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Labu1011&hide_border=false">
