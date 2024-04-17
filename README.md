@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Tarek Jaman Labu 😎</h1>
-<h3 align="center" style="font-size: 22px; color: #ddd;">Frontend Web Developer</h3>
+<h3 align="center" style="font-size: 22px; color: #ddd;">FullStack Web Developer and Competitive Programmer</h3>
 <br />
 
 ## 😃 About Me:
 
 <img src="https://img.shields.io/github/followers/Labu1011?style=social"> <br />
 
-- 🌱 I’m currently learning <strong style="color:#6bbd3e">Fullstack Development and Frameworks and DSA</strong>
+- 🌱 I’m currently learning <strong style="color:#6bbd3e">Data Structure and Algorithms and Problem solving</strong>
 - 🤔 I’m looking for help with <strong>Artificial Intelligence</strong>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Besides coding, I love to play video games 😅
